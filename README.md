@@ -337,7 +337,7 @@ Full-stack Development • Database Design • DSA Implementation • UI Develop
 ## 📸 Project Preview
 
 
-[![Hospital Management System Demo](hps.jpeg)]([https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://youtu.be/9ND3kN_FM0U?si=mkmGa6tap9ea9ZWw))
+[![Hospital Management System Demo](hps.jpeg)](https://youtu.be/9ND3kN_FM0U?si=mkmGa6tap9ea9ZWw)
 
 
 <br>
