@@ -21,6 +21,14 @@ The system provides an easy-to-use hospital dashboard where administrators can m
 
 <br>
 
+## 📸 Project Preview
+
+Click on the below thumbnail and watch the demo video on youtube.
+[![Hospital Management System Demo](hps.jpeg)](https://youtu.be/9ND3kN_FM0U?si=mkmGa6tap9ea9ZWw)
+
+
+<br>
+
 ## ✨ Key Features
 
 ### 👤 Patient Management
@@ -334,13 +342,7 @@ Full-stack Development • Database Design • DSA Implementation • UI Develop
 
 <br>
 
-## 📸 Project Preview
 
-Click on the below thumbnail and watch the demo video on youtube.
-[![Hospital Management System Demo](hps.jpeg)](https://youtu.be/9ND3kN_FM0U?si=mkmGa6tap9ea9ZWw)
-
-
-<br>
 
 ## 📚 Academic Project
 
